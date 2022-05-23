@@ -1,0 +1,14 @@
+.counter {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap:3%;
+}
+.countButton{
+  width: 25px;
+  height: 25px; 
+  background-color: white;
+  border: 1px solid black;
+}
+.countshow{
+  font-family: system-ui;
+}
